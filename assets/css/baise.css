@@ -1,0 +1,11 @@
+/*css reset*/
+body,ol,ul,li,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select,a {margin:0;padding:0}
+img {border:0;vertical-align:top}
+li {list-style:none}
+iframe {border:none}
+html {height:100%;color:#5f6264;}
+body {height:100%;font:400 14px/1.5 'PingFang SC','Microsoft Yahei','Avenir','Segoe UI','Hiragino Sans GB',STHeiti,'Microsoft Sans Serif','WenQuanYi Micro Hei',sans-serif; background: #e8f3f3;}
+a {color:#5f6264;text-decoration:none}
+a:hover {color:#008a83}
+
+header{height: 64px; width: 100%; background: #fff;}
